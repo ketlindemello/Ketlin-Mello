@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 
+<html>
     <head>
         <meta charset="utf-8"> <!-- there is no closing meta tag -->
         <title>
@@ -45,4 +45,4 @@
             </div>
         </section>   
     </body>
-
+</html>
