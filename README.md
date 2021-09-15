@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"> <!-- there is no closing meta tag -->
         <title>
-            Ketlin de Mello
+            Ketlin de Mello Moreira
         </title>
     </head>
     <body>
