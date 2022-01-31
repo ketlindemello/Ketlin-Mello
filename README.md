@@ -7,19 +7,17 @@
         </title>
     </head>
     <body>
-        <h1>Creating Links</h1>
+        <h1>In Technical maintenance </h1>
         <section>
-            We can link to a file in the same directory as this html file like this:
-            <a href="coursera.html" title="test page"> Liking to a file in the same directory          
-            </a>
-            <a href="coursera.html" title="other test">
-                <div> DIV Linking to a file in the same directory</div>
+           For immidiate contact access:    
+            <a href="https://www.linkedin.com/in/ketlindemello/" target="_blank" title="Ketlin's Linkdin">Ketlin's Linkdin</a>
+            
             </a>
         </section>
         <section>
             <p>
-                Let's link a GitHub page!
-                <a href="https://github.com/ketlindemello" target="_blank" title="Ketlin's GitHub">Practice coursera</a>
+                OR check my GitHub page!
+                <a href="https://github.com/ketlindemello" target="_blank" title="Ketlin's GitHub">Ketlin's GitHub</a>
 
             </p>
         </section>  
@@ -31,18 +29,11 @@
             </ul>
         </section>   
         <section id="section1">
-            <h3>(#section1)</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ducimus unde maxime fugit nobis quae doloremque dicta exercitationem accusantium nisi libero eveniet aliquam, aut reiciendis non cumque dolorem distinctio eos. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto voluptatem cumque temporibus, quasi mollitia officiis omnis animi quisquam officia? Fuga earum beatae distinctio animi, non a doloremque esse sit ipsam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, et sed. Autem, perferendis ullam? Maiores optio atque culpa aut, alias molestias minus ullam, magnam sequi laboriosam dolorem eligendi veritatis fuga. </p>
+            <h3>(Linkdin)</h3>
+            <p>Lorem ipsum. </p>
             
 
         </section>
-        <section>
-            <div>
-                <h2><a name="section6">(#section6) Section 6</a></h2>
-                <p>
-                    Back to top: <a href="#top">Back to Top</a>
-                </p>
-            </div>
-        </section>   
+          
     </body>
 </html>
