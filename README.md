@@ -21,19 +21,7 @@
 
             </p>
         </section>  
-        <h1 id="top"> Links to Sections of the same Page</h1>
-        <section>
-            <ul>
-                <li><a href="#section1">#section1</a></li>
-                <li><a href="#section6">#section6</a></li>
-            </ul>
-        </section>   
-        <section id="section1">
-            <h3>(Linkdin)</h3>
-            <p>Lorem ipsum. </p>
-            
-
-        </section>
+        
           
     </body>
 </html>
