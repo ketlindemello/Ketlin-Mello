@@ -16,7 +16,7 @@
         </section>
         <section>
             <p>
-                OR check my GitHub page!
+                OR check my GitHub page:
                 <a href="https://github.com/ketlindemello" target="_blank" title="Ketlin's GitHub">Ketlin's GitHub</a>
 
             </p>
